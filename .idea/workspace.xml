@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7ea8d75-5941-46dd-80a3-0457b722dd2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TED_Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UvB13KV4IPpw34aXtv1mh7yIlL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\TED_Project\TED XML FILE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.All _Code_TEST">
+    <configuration name="All _Code_TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TED_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/All _Code_TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="XML_to_HTML" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TED_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XML_to_HTML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.All _Code_TEST" />
+        <item itemvalue="Python.All _Code_TEST" />
+        <item itemvalue="Python.All _Code_TEST" />
+        <item itemvalue="Python.XML_to_HTML" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ea8d75-5941-46dd-80a3-0457b722dd2e" name="Default Changelist" comment="" />
+      <created>1576226970073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576226970073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="0" key="#All__Code_TEST" timestamp="1577343319812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="#All__Code_TEST/0.0.1366.728@0.0.1366.728" timestamp="1577343319812" />
+    <state x="438" y="0" key="#xdebugger.evaluate" timestamp="1577343138395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="0" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1577343138395" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1577343320164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1577343320164" />
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom" timestamp="1579598642483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579598642483" />
+    <state width="1345" height="219" key="GridCell.Tab.0.center" timestamp="1579598642482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579598642482" />
+    <state width="1345" height="219" key="GridCell.Tab.0.left" timestamp="1579598642482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579598642482" />
+    <state width="1345" height="219" key="GridCell.Tab.0.right" timestamp="1579598642482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579598642482" />
+    <state width="1345" height="189" key="GridCell.Tab.1.bottom" timestamp="1578054083384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="189" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578054083384" />
+    <state width="1345" height="189" key="GridCell.Tab.1.center" timestamp="1578054083384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="189" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578054083384" />
+    <state width="1345" height="189" key="GridCell.Tab.1.left" timestamp="1578054083384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="189" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578054083384" />
+    <state width="1345" height="189" key="GridCell.Tab.1.right" timestamp="1578054083384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="189" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578054083384" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1576844246792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576844246792" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XML_to_HTML.py</url>
+          <line>447</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XML_to_HTML.py</url>
+          <line>401</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XML_to_HTML.py</url>
+          <line>388</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XML_to_HTML.py</url>
+          <line>383</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="fullname" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
